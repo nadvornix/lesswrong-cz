@@ -11,7 +11,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 
 ## How to update website (notes for me)
-- go [here](https://console.aws.amazon.com/s3/home?region=us-west-2&bucket=lesswrong.cz&prefix=) (username is nadvornik.jiri@gmail.com)
+- go [here](https://console.aws.amazon.com/s3/home?region=us-west-2&bucket=lesswrong.cz&prefix=) (username is nadvornik.jiri@gmail.com/O)
 - upload everything
 - (maybe): change rights
 
